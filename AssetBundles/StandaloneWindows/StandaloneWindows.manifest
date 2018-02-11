@@ -1,0 +1,15 @@
+ManifestFileVersion: 0
+CRC: 2325136519
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: cubewall.unity3d
+      Dependencies:
+        Dependency_0: share.unity3d
+    Info_1:
+      Name: share.unity3d
+      Dependencies: {}
+    Info_2:
+      Name: capsulewall.unity3d
+      Dependencies:
+        Dependency_0: share.unity3d
